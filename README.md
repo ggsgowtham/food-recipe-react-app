@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 This is a food-recipe-app created using react js. This app uses food recipe api's from (https://www.edamam.com/) and background colors from (https://webgradients.com/). 
 
 This app has by default a vegetarian recipes and user can search for sppecific variety of recipes from search bar.
